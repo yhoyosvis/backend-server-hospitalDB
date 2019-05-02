@@ -2,7 +2,11 @@
 Este es el codigo necesario para establecer el backend conectado a mongoDB usando mongoose
 
 
-es necesario reconstrui los modulos de node usando npm insertFinalNewline
+es necesario reconstrui los modulos de node usando 
+
+```
+npm install
+```
 
 
 
